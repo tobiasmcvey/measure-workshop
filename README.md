@@ -12,7 +12,7 @@ The process starts with abstract questions and gradually hones in on truly speci
 
 Available in
 
-* Norsk
-* English
+* [Norsk](https://github.com/tobmcv/measure-workshop/blob/master/norsk.md)
+* [English](https://github.com/tobmcv/measure-workshop/blob/master/english.md)
 
 I have conducted similar workshops in the past for product development companies and adapted it so it can be used in other industries including but not limited to retail and government services.
